@@ -1,6 +1,5 @@
 programa {
     funcao inicio () {
-        
         cadeia nome  = "Eliel"
         inteiro idade = 15
          logico ehMaior = verdadeiro
